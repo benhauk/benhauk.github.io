@@ -1,0 +1,43 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/photo_ben_6.jpg"
+  image-width: 200px
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/benjamin-hauk-9a5152166/
+    - icon: envelope
+      text: Email
+      href: "benjamin.hauk@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# About
+---
+
+I am Ben Hauk, an MD-PhD student in Case Western Reserve University's Medical Scientist Training Program. 
+As an undergraduate at the College of William & Mary I majored in Chemistry and Computational & Applied Math and Statistics. I then worked in the lab of Dr. David Takeda at the National Cancer institute studying prostate cancer epigeneitcs. In 2022, I started medical school at CWRU and am now working on my PhD in Cancer Biology. My PhD research in the lab of Dr. Corey Speers focuses on identifying ways to increase the efficacy of radiation therapy in triple negative breast cancer. In my free time I enjoy racing marathons and baking. 
+
+# Education
+---
+
+***Case Western Reserve University*** (2022-Present)  
+  MD/PhD Program (Medical Scientist Training Program)
+
+***College of William & Mary***  
+  BS in Computational & Applied Math & Statistics and Chemistry, summa cum laude
+  
+# Honors
+---
+
+University Hospitals Research Day Poster Competition Winner (2023)  
+Merck Index Award (2020)  
+Blanton Bruner Scholarship from the Virginia Academy of Sciences (2019)  
+Eagle Scout (2016)  
+
+
+

@@ -1,0 +1,17 @@
+---
+title: Publications
+---
+
+1.	Sipola J, Munzur A, Kwan E, Seo C, ***Hauk B***, Parekh K, Liao Y, Bernales C, Donnellan G, Bloise I, Fung E, Ng S, Wang G, Vandekerkhove, Nykter M, Annala M, Dror C, Chi K, Herberts C, Wyatt A, Takeda D. Plasma cell-free DNA chromatin immunoprecipitation profiling depicts phenotypic and clinical heterogeneity in advanced prostate cancer. Cancer Res 2024. <https://doi.org/10.1158/0008-5472.CAN-24-2052> 
+2.	Xiang RR, Lee SA, Tyndall CF, Bhatia AR, Yin J, Singler C, ***Hauk BJ***, Kipp MP, Takeda DY. CRISPR screening identifies regulators of enhancer-mediated androgen receptor transcription in advanced prostate cancer. Cell Rep. 2025 Feb 14;44(2):115312. doi: <https://doi.org/10.1016/j.celrep.2025.115312> 
+3.	McBean B, Abou Zeidane R, Lichtman-Mikol S, ***Hauk B***, Speers J, Tidmore S, Flores CL, Rana PS, Pisano C, Liu M, et al. MELK as a Mediator of Stemness and Metastasis in Aggressive Subtypes of Breast Cancer. International Journal of Molecular Sciences. 2025; 26(5):2245. <https://doi.org/10.3390/ijms26052245>
+
+---
+
+## Poster Presentations
+
+
+1.	***Hauk B***, Gurdak D, Abou Zeidane R, Lichtman-Mikol S, Pisano C, Tao M, Markovic V, Michmerhuizen A, Pierce L, Speers C. “PARP1 Inhibition Radiosensitizes Models of Inflammatory Breast Cancer to Ionizing Radiation and Demonstrates Safety in phase IB/II Clinical Trials” University Hospitals Research Day (2023). *Awarded Poster Competition Winner
+2.	***Hauk B***, Takeda D. “Epigenetic Profiling of Intraductal Carcinoma of the Prostate from FFPE” NIH Post-Bac Poster Day (2021).
+3.	***Hauk B***, Landino L. “Conformational Changes of Lactate Dehydrogenase Isozymes” Chemistry Department Honors Thesis, William & Mary (2020).
+4.	***Hauk B***, Xia H. “The PDZ Binding Domain is Critical of COX-2 Localization” University of Rochester 2018 Summer Symposium (2018).
