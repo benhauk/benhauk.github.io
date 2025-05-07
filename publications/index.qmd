@@ -11,7 +11,8 @@ title: Publications
 ## Poster Presentations
 
 
-1.	***Hauk B***, Gurdak D, Abou Zeidane R, Lichtman-Mikol S, Pisano C, Tao M, Markovic V, Michmerhuizen A, Pierce L, Speers C. “PARP1 Inhibition Radiosensitizes Models of Inflammatory Breast Cancer to Ionizing Radiation and Demonstrates Safety in phase IB/II Clinical Trials” University Hospitals Research Day (2023). *Awarded Poster Competition Winner
-2.	***Hauk B***, Takeda D. “Epigenetic Profiling of Intraductal Carcinoma of the Prostate from FFPE” NIH Post-Bac Poster Day (2021).
-3.	***Hauk B***, Landino L. “Conformational Changes of Lactate Dehydrogenase Isozymes” Chemistry Department Honors Thesis, William & Mary (2020).
-4.	***Hauk B***, Xia H. “The PDZ Binding Domain is Critical of COX-2 Localization” University of Rochester 2018 Summer Symposium (2018).
+1. ***Hauk B***, McBean B, Michmerhuizen A, Gurdak D, Tidmore S, Paulsen M, Lerner L, Ward C, Jungles K, Spratt D, Pierce L, Ljungman M, Speers C. “Multiomic insights into mechanisms of androgen receptor-driven radioresistance in triple-negative breast cancer” AACR Annual Meeting (2025). <https://aacrjournals.org/cancerres/article/85/8_Supplement_1/4681/757378>  
+2. ***Hauk B***, Gurdak D, Abou Zeidane R, Lichtman-Mikol S, Pisano C, Tao M, Markovic V, Michmerhuizen A, Pierce L, Speers C. “PARP1 Inhibition Radiosensitizes Models of Inflammatory Breast Cancer to Ionizing Radiation and Demonstrates Safety in phase IB/II Clinical Trials” University Hospitals Research Day (2023). *Awarded Poster Competition Winner  
+3.	***Hauk B***, Takeda D. “Epigenetic Profiling of Intraductal Carcinoma of the Prostate from FFPE” NIH Post-Bac Poster Day (2021).  
+4.	***Hauk B***, Landino L. “Conformational Changes of Lactate Dehydrogenase Isozymes” Chemistry Department Honors Thesis, William & Mary (2020).  
+5.	***Hauk B***, Xia H. “The PDZ Binding Domain is Critical of COX-2 Localization” University of Rochester 2018 Summer Symposium (2018).  
